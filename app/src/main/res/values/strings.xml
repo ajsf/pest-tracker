@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pest Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="api_key">93828f470791238c43cef3aa43ebb983e72729d8</string>
+</resources>

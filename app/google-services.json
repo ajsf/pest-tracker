@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478876769058",
+    "firebase_url": "https://pest-tracker.firebaseio.com",
+    "project_id": "pest-tracker",
+    "storage_bucket": "pest-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478876769058:android:2604787efce05881",
+        "android_client_info": {
+          "package_name": "com.hackathon.pesttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478876769058-i1defhlht0od9hsmh0qr7sfbtve81jmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackathon.pesttracker",
+            "certificate_hash": "54425db3cd6c542ba1ab0ec8aa51b751e9b05d5e"
+          }
+        },
+        {
+          "client_id": "478876769058-1hqpcd9ikkqakbes7o21cknvhs318rgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQI8uVyuyMQ1LHkq28lJVuy6jKVbK-WS0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478876769058-1hqpcd9ikkqakbes7o21cknvhs318rgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
